@@ -59,8 +59,6 @@ const AboutSection = () => {
                     About Me
                 </h2>
                 <p className={`${nunito.className} text-base lg:text-lg`}>
-                    I am a sophomore pursuing a double major in Computer Science and Economics at Bryn Mawr College.
-                    I am passionate about identifying user needs and searching for the solution.
                     Through my experience in client-facing work and internships, I develop strong analytical problem-solving, customer empathy, and an abiliy
                     to collaborate across different teams.
                     I am enriching my technical experience through building products that help solve everyday problems.
