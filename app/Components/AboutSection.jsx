@@ -59,7 +59,7 @@ const AboutSection = () => {
                     About Me
                 </h2>
                 <p className={`${nunito.className} text-base lg:text-lg`}>
-                    Through my experience in client-facing work and internships, I develop strong analytical problem-solving, customer empathy, and an abiliy
+                    Through my experience in client-facing work and internships, I develop strong analytical problem-solving, customer empathy, and an ability
                     to collaborate across different teams.
                     I am enriching my technical experience through building products that help solve everyday problems.
                     I love reading, traveling, and trying out new cuisines!
