@@ -24,7 +24,7 @@ const HeroSection = () => {
                   1000,
                   "A Student at Bryn Mawr College",
                   1000,
-                  "A Technology Enthusiast"
+                  "A Technology Enthusiast",
                   1000
                 ]}
                 wrapper="span"
