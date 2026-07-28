@@ -17,7 +17,7 @@ const projectsData = [
     id: 2,
     title: "Restaurant Personal Record",
     description: "A platform that allows users to search for nearby restaurants and rank their selections based on their experience",
-    image: "/images/image.jpg",
+    image: "/images/image.png",
     gitUrl: "https://github.com/linhnguyen6206/restaurant-record",
     previewUrl: "/"
 
