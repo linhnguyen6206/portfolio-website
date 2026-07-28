@@ -7,28 +7,44 @@ import { fredoka } from "../layout";
 const projectsData = [
   {
     id: 1,
-    title: "Weekly Menu Guide",
-    description: "A platform that generates recipes for the week based on user's input",
-    image: "/images/Weekly-Planner.png",
-    gitUrl: "https://github.com/linhnguyen6206/meal-planner",
-    previewUrl: "https://meal-planner-psi-one.vercel.app/",
+    title: "My Google",
+    description: "A shell demo of search engine. Will develop more functionalities",
+    image: "/images/my-google.png",
+    gitUrl: "https://github.com/linhnguyen6206/my-google",
+    previewUrl: "https://my-google-hazel.vercel.app/",
   },
   {
     id: 2,
-    title: "Vim interface",
-    description: "A Vim-like interface that allows users to edit, save, and use other functionalities in Vim",
+    title: "Restaurant Personal Record",
+    description: "A platform that allows users to search for nearby restaurants and rank their selections based on their experience",
+    image: "/images/image.avif",
+    gitUrl: "https://github.com/linhnguyen6206/restaurant-record",
+    previewUrl: "/"
+
+  },
+  
+  {
+    id: 3,
+    title: "Image Processor",
+    description: "An algorithm that allows users to modify their images and received the modified version in .ppm format"
+    image: "/images/demo.png",
+    gitUrl: "https://github.com/linhnguyen6206/image-processor"
+    previewUrl: "/"
+  }
+  {
+    id: 4,
+    title: "Vim Interface",
+    description: "A Vim-like interface that allows users to edit, save, and use other functionalities in Vim.",
     image: "/images/vim-system.png",
     gitUrl: "",
     previewUrl: "/",
   },
   {
-    id: 3,
-    title: "Bryn Mawr College Institutional Data",
-    description: "An interactive Tableau dashboard to analyze and visualize institutional data.",
-    image: "/images/tableau.png",
-    gitUrl: "",
-    previewUrl: "https://public.tableau.com/app/profile/linh.nguyen8681/viz/AllStudentsVisualizations/Demographics",
-  },
+    id: 5,
+    title: "Personal Meal Planner",
+    description: "A platform that aims to prevent student decision fatigue and reduce food waste.",
+    image: "/images/Weekly-Planner.png"
+  }
 ]
 const ProjectsSection = () => {
   const ref = useRef(null);
