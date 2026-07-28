@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/demo.png",
     gitUrl: "https://github.com/linhnguyen6206/image-processor",
     previewUrl: "/",
-  }
+  },
   {
     id: 4,
     title: "Vim Interface",
@@ -45,7 +45,7 @@ const projectsData = [
     description: "A platform that aims to prevent student decision fatigue and reduce food waste.",
     image: "/images/Weekly-Planner.png",
     gitUrl: "https://github.com/linhnguyen6206/meal-planner",
-    previewUrl: "https://meal-planner-psi-one.vercel.app/"
+    previewUrl: "https://meal-planner-psi-one.vercel.app/",
   }
 ]
 const ProjectsSection = () => {
