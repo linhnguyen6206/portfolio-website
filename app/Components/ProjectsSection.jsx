@@ -26,10 +26,10 @@ const projectsData = [
   {
     id: 3,
     title: "Image Processor",
-    description: "An algorithm that allows users to modify their images and received the modified version in .ppm format"
+    description: "An algorithm that allows users to modify their images and received the modified version in .ppm format",
     image: "/images/demo.png",
-    gitUrl: "https://github.com/linhnguyen6206/image-processor"
-    previewUrl: "/"
+    gitUrl: "https://github.com/linhnguyen6206/image-processor",
+    previewUrl: "/",
   }
   {
     id: 4,
@@ -43,7 +43,9 @@ const projectsData = [
     id: 5,
     title: "Personal Meal Planner",
     description: "A platform that aims to prevent student decision fatigue and reduce food waste.",
-    image: "/images/Weekly-Planner.png"
+    image: "/images/Weekly-Planner.png",
+    gitUrl: "https://github.com/linhnguyen6206/meal-planner",
+    previewUrl: "https://meal-planner-psi-one.vercel.app/"
   }
 ]
 const ProjectsSection = () => {
