@@ -35,7 +35,7 @@ const projectsData = [
     id: 4,
     title: "Image Processor",
     description: "An algorithm that allows users to modify their images and received the modified version in .ppm format",
-    image: "/images/demo.png",
+    image: "/images/demo.jpg",
     gitUrl: "https://github.com/linhnguyen6206/image-processor",
     previewUrl: "/",
   },
