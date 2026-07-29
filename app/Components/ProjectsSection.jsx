@@ -7,6 +7,14 @@ import { fredoka } from "../layout";
 const projectsData = [
   {
     id: 1,
+    title: "Book Finder",
+    description: "A full-stack website allowing users to search for books and save their favorites",
+    image: "/images/book-finder.png",
+    gitUrl: "https://github.com/linhnguyen6206/book-finder",
+    previewUrl: "https://github.com/linhnguyen6206/book-finder",
+  },
+  {
+    id: 2,
     title: "My Google",
     description: "A shell demo of search engine. Will develop more functionalities",
     image: "/images/my-google.png",
@@ -14,7 +22,7 @@ const projectsData = [
     previewUrl: "https://my-google-hazel.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Restaurant Personal Record",
     description: "A platform that allows users to search for nearby restaurants and rank their selections based on their experience",
     image: "/images/image.png",
@@ -24,7 +32,7 @@ const projectsData = [
   },
   
   {
-    id: 3,
+    id: 4,
     title: "Image Processor",
     description: "An algorithm that allows users to modify their images and received the modified version in .ppm format",
     image: "/images/demo.png",
@@ -32,7 +40,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Vim Interface",
     description: "A Vim-like interface that allows users to edit, save, and use other functionalities in Vim.",
     image: "/images/vim-system.png",
@@ -40,7 +48,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Personal Meal Planner",
     description: "A platform that aims to prevent student decision fatigue and reduce food waste.",
     image: "/images/Weekly-Planner.png",
