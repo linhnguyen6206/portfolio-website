@@ -13,8 +13,12 @@ const TAB_DATA = [
                 <li>Java</li>
                 <li>Python</li>
                 <li>SQL</li>
-                <li>HTML/CSSJavaScript</li>
+                <li>HTML/CSS</li>
+                <li>JavaScript</li>
                 <li>C/C++</li>
+                <li>Supabase</li>
+                <li>Superset</li>
+                <li>Power BI</li>
                 <li>Node.js</li>
                 <li>Express.js</li>
             </ul>
@@ -48,7 +52,7 @@ const AboutSection = () => {
         <section className = "text-black pt-8 md:pt-10 lg:pt-12 pb-8" id="about">
         <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
             <Image 
-                src="/images/about.jpg" 
+                src="/images/about.png" 
                 width={400} 
                 height={400}
                 alt="About image" 
