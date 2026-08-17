@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Book Finder",
-    description: "A full-stack website allowing users to search for books and save their favorites.:",
+    description: "A full-stack website allowing users to search for books and save their favorites.",
     image: "/images/book-finder.png",
     gitUrl: "https://github.com/linhnguyen6206/book-finder",
     previewUrl: "https://github.com/linhnguyen6206/book-finder",
