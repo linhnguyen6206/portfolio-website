@@ -23,11 +23,11 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Restaurant Personal Record",
-    description: "A platform that allows users to search for nearby restaurants and rank their selections based on their experience",
-    image: "/images/image.png",
-    gitUrl: "https://github.com/linhnguyen6206/restaurant-record",
-    previewUrl: "/"
+    title: "Travel Consensus",
+    description: "A platform that allows users to set a budget and create affordable travel plans as a group",
+    image: "/images/traveling.png",
+    gitUrl: "https://github.com/linhnguyen6206/travel-consensus",
+    previewUrl: "/",
 
   },
   
