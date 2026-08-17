@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "Book Finder",
-    description: "A full-stack website allowing users to search for books and save their favorites",
+    description: "A full-stack website allowing users to search for books and save their favorites.:",
     image: "/images/book-finder.png",
     gitUrl: "https://github.com/linhnguyen6206/book-finder",
     previewUrl: "https://github.com/linhnguyen6206/book-finder",
@@ -16,7 +16,7 @@ const projectsData = [
   {
     id: 2,
     title: "My Google",
-    description: "A shell demo of search engine. Will develop more functionalities",
+    description: "A shell demo of search engine. Will develop more functionalities.",
     image: "/images/my-google.png",
     gitUrl: "https://github.com/linhnguyen6206/my-google",
     previewUrl: "https://my-google-hazel.vercel.app/",
@@ -24,7 +24,7 @@ const projectsData = [
   {
     id: 3,
     title: "Travel Consensus",
-    description: "A platform that allows users to set a budget and create affordable travel plans as a group",
+    description: "A platform that allows users to set a budget and create affordable travel plans as a group.",
     image: "/images/traveling.png",
     gitUrl: "https://github.com/linhnguyen6206/travel-consensus",
     previewUrl: "/",
@@ -34,7 +34,7 @@ const projectsData = [
   {
     id: 4,
     title: "Image Processor",
-    description: "An algorithm that allows users to modify their images and received the modified version in .ppm format",
+    description: "An algorithm that allows users to modify their images and received the modified version in .ppm format.",
     image: "/images/demo.jpg",
     gitUrl: "https://github.com/linhnguyen6206/image-processor",
     previewUrl: "/",
